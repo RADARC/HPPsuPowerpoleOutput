@@ -22,4 +22,4 @@ Please see https://www.qsl.net/gm0onx/SMPU.htm for instructions on how to modify
 PCB complete. Case in final design.
 
 # 3D case
-[Files will be available on Printables soon...](https://www.printables.com/model/1689658-hp-server-psu-powerpole-output)
+[Printables(https://www.printables.com/model/1689658-hp-server-psu-powerpole-output)
