@@ -19,7 +19,7 @@ Please see https://www.qsl.net/gm0onx/SMPU.htm for instructions on how to modify
 
 
 # Current status
-PCB complete. Case in final design.
+PCB complete. Case complete.
 
 # 3D case
 [Printables(https://www.printables.com/model/1689658-hp-server-psu-powerpole-output)
