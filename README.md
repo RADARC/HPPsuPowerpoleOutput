@@ -5,14 +5,14 @@ Please see https://www.qsl.net/gm0onx/SMPU.htm for instructions on how to modify
 
 # Parts
 * 64 pin 2.54mm pitch edge connector. I got a pack of 5 from Aliexpress for about £7.50
-* 2 standard 5mm led's
+* D1/2 standard 5mm led's
 * Vertical pcb mount powerpole contacts and shells
-* 2* [value] reststors for led's
-* 22K resistor
-* Switch
+* R1 - 22k Resistor
+* R2/3 - 2k2 Resistor
+* 3mm SPDT slide switch (e.g https://amzn.eu/d/0gzYgMrN)
+
 
 # Notes
-
 
 
 # Versions
@@ -22,4 +22,7 @@ Please see https://www.qsl.net/gm0onx/SMPU.htm for instructions on how to modify
 PCB complete. Case complete.
 
 # 3D case
-[Printables(https://www.printables.com/model/1689658-hp-server-psu-powerpole-output)
+https://www.printables.com/model/1689658-hp-server-psu-powerpole-output
+![PSU Case](https://github.com/RADARC/HPPsuPowerpoleOutput/blob/main/PSU%20Case.jpeg) 
+
+
